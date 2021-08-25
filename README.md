@@ -1,1 +1,1 @@
-# graphql-test
+# graphql-restaurant-test
